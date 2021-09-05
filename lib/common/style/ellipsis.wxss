@@ -1,0 +1,1 @@
+.txt-ellipsis{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.txt-multi-ellipsis--l2{-webkit-line-clamp:2}.txt-multi-ellipsis--l2,.txt-multi-ellipsis--l3{-webkit-box-orient:vertical;display:-webkit-box;overflow:hidden;text-overflow:ellipsis}.txt-multi-ellipsis--l3{-webkit-line-clamp:3}

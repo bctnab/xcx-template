@@ -1,0 +1,16 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "小程序架构",
+    "navigationBarTextStyle": "black"
+  },
+  "usingComponents": {
+    "use-button": "./dist/button/index"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

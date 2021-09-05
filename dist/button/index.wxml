@@ -1,0 +1,8 @@
+<button
+  data-detail="{{ dataset }}"
+  hover-class="hover-class"
+  class="custom-class ui-btn txt-ellipsis"
+  bind:tap="onClick"
+>
+  <span class="weui-btn_text"><slot /></span>
+</button>

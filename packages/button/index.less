@@ -1,0 +1,21 @@
+@import "../common/style/variable/button.less";
+
+.ui-btn {
+  background-color: @button-default-background;
+  width: @button-default-width;
+  color: @button-default-color;
+  font-size: @button-default-font-size;
+  font-weight: @button-default-font-weight;
+  transition: all @animation-duration-fast;
+  display: block;
+  text-align: center;
+  box-sizing: border-box;
+  text-decoration: none;
+  line-height: 1.4;
+  overflow: hidden;
+  margin: 0 auto;
+
+  &:active {
+    background-color: @button-default-active-background;
+  }
+}

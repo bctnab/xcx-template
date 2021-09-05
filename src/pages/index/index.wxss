@@ -1,0 +1,30 @@
+.page{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.page__text-area{
+  margin-bottom: 32px;
+  padding: 96px 32px 0;
+  flex: 1;
+  line-height: 1.6;
+}
+
+.page__title{
+  display: block;
+  margin-bottom: 16px;
+  font-weight: bold;
+  font-size: 20px;
+  color: #191919;
+}
+
+.page__desc{
+  font-weight: 400;
+  color: rgba(0,0,0,0.9);
+  margin-bottom: 16px;
+}
+
+.page__opr-area{
+  margin-bottom: 96px;
+}
